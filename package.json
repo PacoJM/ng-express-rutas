@@ -1,0 +1,20 @@
+{
+  "name": "ng-express-rutas",
+  "version": "1.0.0",
+  "description": "Otra aplicación simple con rutas en Angular pero llamando a páginas html",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ejemplo",
+    "express",
+    "angular",
+    "rutas"
+  ],
+  "author": "PacoJM",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
